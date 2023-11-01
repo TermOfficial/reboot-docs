@@ -1,2 +1,3 @@
 - [Home](README)
-- [Create your Applicaiton](create-application)
+- [Create your Application](create-application)
+- [Integrate Reboot](inserting-reboot)
