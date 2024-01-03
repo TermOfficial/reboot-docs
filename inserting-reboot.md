@@ -1,4 +1,4 @@
-# Preparing reboot integration.
+# Preparing Reboot integration.
 To allow users to authorize your service, you can share the login link. You can place a link on your site or automatically redirect to the link to allow users to authorize it.
 
 # Fetching user info
